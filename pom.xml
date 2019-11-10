@@ -4,6 +4,9 @@
     <groupId>net.fhirbox.pegacorn</groupId>
     <artifactId>the-pegacorn-project</artifactId>
     <version>1.0-SNAPSHOT</version>
+    
+    <name>The Pegacorn Project</name>
+    
     <packaging>pom</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
